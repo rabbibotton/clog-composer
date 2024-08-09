@@ -26,12 +26,21 @@ The Composer is written in the Common Lisp Omnificent GUI, CLOG for short, so
 it will run on almost any OS and any device.
 
 The Composer is part of CLOG's Common Lisp tool suite however much of the
-system will assist any project in any language.
+system will assist any project in any language and not only software projects.
 
-Components:
+Ideas for Components:
 
 1. Team communications
-2. Artifact database
+  a. Chat
+  b. Podeum for ideas
+  c. Innovation tournaments
+  d. Manager/Sponsor Adopter Market - show off ideas to get buy in
+  e. Assist board - praises for team efforts
+  f. Teach It Forum - area focused on training each other
+  g. Progress Monitor
+  h. Challanger board for team games
+  i. Success board - things overcome
+2. Artifact database (graphics, code, documents)
 3. Prodictivity Hub
   a. Capture ideas
   b. Delegate ideas
@@ -52,7 +61,7 @@ Components:
   c. Distraction Combat System
   d. Time Visualiation System
   e. Gamifying System
-5. CLOG Plunger - coder / writer Block Breaker
+5. CLOG Plunger - writer Block Breaker
 6. Organization
   a. Routine builder
   b. Future planner
@@ -68,7 +77,7 @@ Components:
   c. Signoff idea contribution
   d. Loose Ends
   e. Up to Date
-  f. New ideas - plan to "restart"
+  f. New ideas connected to review - plan to "restart"
 8. Journaling system
   a. dumping to the Prodictivity Hub ideas
   b. unloading
@@ -80,9 +89,9 @@ Components:
   e. add to patterned responses that build your narrative
   f. seeing different perspectives for realities
   g. idea challanges - brain storming system - no edits
+  h. shared journaling areas with team
 
-
-Key Ideas Behind the Composer
+Key Patterns Behind the Composer
 
 Place + Time = Consistency
 Your Narrative is your Reality and What you will be
@@ -93,6 +102,7 @@ Your Narrative is your Reality and What you will be
 Anxiety not knowing what to do next
 Boredom is an addiction
   Boredom plans a cure
-Hacking the process is a procrastination
+Hacking the process is a procrastination in and of itself
 Questions force your brain to find answers
-
+Best ideas require interaction with others
+Iterations are about closer to excellence not perfection
